@@ -1,0 +1,8 @@
+{
+  "name": "Gestão de Biblioteca",
+  "description": "Sistema completo e funcional para gestão de leitores, livros, empréstimos e devoluções com controle de multas e geração de relatórios estatísticos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
