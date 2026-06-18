@@ -91,3 +91,9 @@ Para instalar e rodar a aplicação localmente de forma simples:
 *   `GET /api/relatorios/mais-emprestados` — Top 10 títulos mais procurados do acervo.
 *   `GET /api/relatorios/atrasos` — Detalhes analíticos de multas ativas.
 *   `GET /api/relatorios/historico?periodo=YYYY-MM` — Extrato de circulação consolidada mensal.
+
+## ━━━ Credenciais) ━━━
+
+*   **Administrador**
+*   `username`-admin.
+*   `senha`-1234.
