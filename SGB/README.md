@@ -95,5 +95,5 @@ Para instalar e rodar a aplicação localmente de forma simples:
 ## ━━━ Credenciais) ━━━
 
 *   **Administrador**
-*   `username`-admin.
-*   `senha`-1234.
+*   `username`:admin.
+*   `senha`:1234.
